@@ -1,0 +1,5 @@
+GET localhost:8080/student
+###
+GET localhost:8080/faculty
+###
+GET localhost:8080/swagger-ui/index.html
