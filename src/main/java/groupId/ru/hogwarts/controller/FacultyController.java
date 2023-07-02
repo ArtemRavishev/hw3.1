@@ -13,7 +13,7 @@ public class FacultyController {
 
     @GetMapping
     public String testApi() {
-        return "Я распределяющая шляпа и я здесь решаю в каком факультете вам учиться ";
+        return "Я распределяющая шляпа и я здесь решаю в каком факультете вам учиться хе-хе";
     }
 
     private final FacultyService facultyService;
